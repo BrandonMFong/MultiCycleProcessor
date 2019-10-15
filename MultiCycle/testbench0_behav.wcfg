@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench0_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench0" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="909686800fs"></ZoomStartTime>
+      <ZoomEndTime time="1444186801fs"></ZoomEndTime>
+      <Cursor1Time time="1280187000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="125"></NameColumnWidth>
+      <ValueColumnWidth column_width="80"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="74" />
+   <wvobject fp_name="/testbench0/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod14/pc_reg1" type="array">
+      <obj_property name="ElementShortName">pc_reg1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_reg1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/OPCODE" type="array">
+      <obj_property name="ElementShortName">OPCODE[5:0]</obj_property>
+      <obj_property name="ObjectShortName">OPCODE[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/FUNCT" type="array">
+      <obj_property name="ElementShortName">FUNCT[5:0]</obj_property>
+      <obj_property name="ObjectShortName">FUNCT[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/mux0sel" type="logic">
+      <obj_property name="ElementShortName">mux0sel</obj_property>
+      <obj_property name="ObjectShortName">mux0sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/mux4sel" type="logic">
+      <obj_property name="ElementShortName">mux4sel</obj_property>
+      <obj_property name="ObjectShortName">mux4sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/branch" type="logic">
+      <obj_property name="ElementShortName">branch</obj_property>
+      <obj_property name="ObjectShortName">branch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/PC_EN" type="logic">
+      <obj_property name="ElementShortName">PC_EN</obj_property>
+      <obj_property name="ObjectShortName">PC_EN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/MEMW_EN" type="logic">
+      <obj_property name="ElementShortName">MEMW_EN</obj_property>
+      <obj_property name="ObjectShortName">MEMW_EN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/IR_EN" type="logic">
+      <obj_property name="ElementShortName">IR_EN</obj_property>
+      <obj_property name="ObjectShortName">IR_EN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/RF_WE" type="logic">
+      <obj_property name="ElementShortName">RF_WE</obj_property>
+      <obj_property name="ObjectShortName">RF_WE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/mux1sel" type="array">
+      <obj_property name="ElementShortName">mux1sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">mux1sel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/mux2sel" type="array">
+      <obj_property name="ElementShortName">mux2sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">mux2sel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/mux3sel" type="array">
+      <obj_property name="ElementShortName">mux3sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">mux3sel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/mux5sel" type="array">
+      <obj_property name="ElementShortName">mux5sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">mux5sel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALUsel" type="array">
+      <obj_property name="ElementShortName">ALUsel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUsel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/trigger" type="logic">
+      <obj_property name="ElementShortName">trigger</obj_property>
+      <obj_property name="ObjectShortName">trigger</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/STATE" type="array">
+      <obj_property name="ElementShortName">STATE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">STATE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/statecounter0" type="array">
+      <obj_property name="ElementShortName">statecounter0[4:0]</obj_property>
+      <obj_property name="ObjectShortName">statecounter0[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/RFWE" type="logic">
+      <obj_property name="ElementShortName">RFWE</obj_property>
+      <obj_property name="ObjectShortName">RFWE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/RFRA1" type="array">
+      <obj_property name="ElementShortName">RFRA1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RFRA1[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/RFRA2" type="array">
+      <obj_property name="ElementShortName">RFRA2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RFRA2[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/RFWA" type="array">
+      <obj_property name="ElementShortName">RFWA[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RFWA[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/RFWD" type="array">
+      <obj_property name="ElementShortName">RFWD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RFWD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/RFRD1" type="array">
+      <obj_property name="ElementShortName">RFRD1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RFRD1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/RFRD2" type="array">
+      <obj_property name="ElementShortName">RFRD2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RFRD2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/registers" type="array">
+      <obj_property name="ElementShortName">registers[0:32][31:0]</obj_property>
+      <obj_property name="ObjectShortName">registers[0:32][31:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/DATA_WL" type="array">
+      <obj_property name="ElementShortName">DATA_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/ADDR_RF_WL" type="array">
+      <obj_property name="ElementShortName">ADDR_RF_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR_RF_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/ADDR_MEM" type="array">
+      <obj_property name="ElementShortName">ADDR_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/IMMED_WL" type="array">
+      <obj_property name="ElementShortName">IMMED_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IMMED_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod17/JUMP_WL" type="array">
+      <obj_property name="ElementShortName">JUMP_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">JUMP_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/DATA_WL" type="array">
+      <obj_property name="ElementShortName">DATA_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ADDR_RF_WL" type="array">
+      <obj_property name="ElementShortName">ADDR_RF_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR_RF_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ADDR_MEM" type="array">
+      <obj_property name="ElementShortName">ADDR_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/IMMED_WL" type="array">
+      <obj_property name="ElementShortName">IMMED_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IMMED_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/JUMP_WL" type="array">
+      <obj_property name="ElementShortName">JUMP_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">JUMP_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_WL" type="array">
+      <obj_property name="ElementShortName">ALU_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/OP_WL" type="array">
+      <obj_property name="ElementShortName">OP_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">OP_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/FUNCT_WL" type="array">
+      <obj_property name="ElementShortName">FUNCT_WL[31:0]</obj_property>
+      <obj_property name="ObjectShortName">FUNCT_WL[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/LW" type="array">
+      <obj_property name="ElementShortName">LW[5:0]</obj_property>
+      <obj_property name="ObjectShortName">LW[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/SW" type="array">
+      <obj_property name="ElementShortName">SW[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SW[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ADDI" type="array">
+      <obj_property name="ElementShortName">ADDI[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDI[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/JUMP" type="array">
+      <obj_property name="ElementShortName">JUMP[5:0]</obj_property>
+      <obj_property name="ObjectShortName">JUMP[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/R" type="array">
+      <obj_property name="ElementShortName">R[5:0]</obj_property>
+      <obj_property name="ObjectShortName">R[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/BEQ" type="array">
+      <obj_property name="ElementShortName">BEQ[5:0]</obj_property>
+      <obj_property name="ObjectShortName">BEQ[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/BNE" type="array">
+      <obj_property name="ElementShortName">BNE[5:0]</obj_property>
+      <obj_property name="ObjectShortName">BNE[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ADD" type="array">
+      <obj_property name="ElementShortName">ADD[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ADD[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/SUB" type="array">
+      <obj_property name="ElementShortName">SUB[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SUB[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/SLL" type="array">
+      <obj_property name="ElementShortName">SLL[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SLL[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/SRA" type="array">
+      <obj_property name="ElementShortName">SRA[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SRA[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/SRL" type="array">
+      <obj_property name="ElementShortName">SRL[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SRL[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/SLLV" type="array">
+      <obj_property name="ElementShortName">SLLV[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SLLV[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/SRAV" type="array">
+      <obj_property name="ElementShortName">SRAV[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SRAV[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/SRLV" type="array">
+      <obj_property name="ElementShortName">SRLV[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SRLV[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/DIV" type="array">
+      <obj_property name="ElementShortName">DIV[5:0]</obj_property>
+      <obj_property name="ObjectShortName">DIV[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_IDLE" type="array">
+      <obj_property name="ElementShortName">ALU_IDLE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_IDLE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_LW_SW_ADD_ADDI_PC" type="array">
+      <obj_property name="ElementShortName">ALU_LW_SW_ADD_ADDI_PC[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_LW_SW_ADD_ADDI_PC[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_SUB_BRANCH" type="array">
+      <obj_property name="ElementShortName">ALU_SUB_BRANCH[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_SUB_BRANCH[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_SLLV" type="array">
+      <obj_property name="ElementShortName">ALU_SLLV[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_SLLV[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_SRAV" type="array">
+      <obj_property name="ElementShortName">ALU_SRAV[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_SRAV[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_SRLV" type="array">
+      <obj_property name="ElementShortName">ALU_SRLV[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_SRLV[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_MULT" type="array">
+      <obj_property name="ElementShortName">ALU_MULT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_MULT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_SLL" type="array">
+      <obj_property name="ElementShortName">ALU_SLL[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_SLL[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_SRA" type="array">
+      <obj_property name="ElementShortName">ALU_SRA[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_SRA[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/ALU_SRL" type="array">
+      <obj_property name="ElementShortName">ALU_SRL[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_SRL[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/s0" type="array">
+      <obj_property name="ElementShortName">s0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/s1" type="array">
+      <obj_property name="ElementShortName">s1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/s2" type="array">
+      <obj_property name="ElementShortName">s2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench0/mod0/mod2/s3" type="array">
+      <obj_property name="ElementShortName">s3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s3[31:0]</obj_property>
+   </wvobject>
+</wave_config>

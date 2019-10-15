@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Oct 12 10:13:33 2019
+# Process ID: 8512
+# Current directory: B:/COLLEGE/19_20/Fall_19/CompE_475/ASS_4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13492 B:\COLLEGE\19_20\Fall_19\Compe_475\ASS_4\MultiCycle\MultiCycle.xpr
+# Log file: B:/COLLEGE/19_20/Fall_19/CompE_475/ASS_4/vivado.log
+# Journal file: B:/COLLEGE/19_20/Fall_19/CompE_475/ASS_4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project B:/COLLEGE/19_20/Fall_19/Compe_475/ASS_4/MultiCycle/MultiCycle.xpr
+update_compile_order -fileset sources_1
+launch_simulation
